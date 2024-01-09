@@ -1,0 +1,71 @@
+.container img{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 80%;
+    max-width: 1600px;
+    border-radius: 16px;
+    background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-position: 100%;
+    margin: 50px 140px 120px 140px;
+    
+    
+}
+
+.banner-text{
+    color: #FFF;
+    display: flex;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+.discount{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#instruction{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#collection{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    }
+#photo{
+    position: absolute;
+    background-origin: border-box;
+    border-left: 400px;
+    border-right: 400px;
+    background-position: 100%;
+    background-size: auto;
+    width: 802.9px;
+    height: 500px;
+}
+.about-info-container discount, instruction, collection {
+    position: absolute;
+    margin-top: 120px;
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+}
+
+
+   
+
